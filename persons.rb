@@ -34,4 +34,3 @@ class Person < Nameable
     @rentals.push(rental)
   end
 end
-

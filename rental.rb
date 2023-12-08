@@ -9,4 +9,3 @@ class Rental
     person.add_rental(self)
   end
 end
-
